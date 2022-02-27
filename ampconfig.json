@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "MM Sub Movies",
+    "description": "",
+    "version": "rth023uw",
+    "id": "cl04vy73b28336701s6shx9788g",
+    "url": "https://app.amplication.com/cl04vy73b28336701s6shx9788g",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "mmsubtest",
+      "dbPassword": "eikaykhine",
+      "dbPort": 5432,
+      "dbUser": "heinkozin",
+      "appId": "cl04vy73b28336701s6shx9788g",
+      "authProvider": "Jwt"
+    }
+  }
+}
